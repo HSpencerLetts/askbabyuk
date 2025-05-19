@@ -2,7 +2,7 @@
 
 _Your gentle AI-powered assistant for new UK parents — built with a calm voice and NHS-style guidance._
 
-[![Streamlit App](https://img.shields.io/badge/View_App-Streamlit-green?logo=streamlit)](https://share.streamlit.io/YOUR-USERNAME/askbabyuk/main/app.py)
+[![Streamlit App](https://img.shields.io/badge/View_App-Streamlit-green?logo=streamlit)](https://askbabyuk.streamlit.app/)
 
 ---
 
