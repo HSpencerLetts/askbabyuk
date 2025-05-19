@@ -51,7 +51,7 @@ if not st.session_state.context_set:
 # --- Title & Intro ---
 st.title("👶 AskBaby.uk – Ask Ellie")
 st.markdown("_Your gentle AI guide for new UK parents. Powered by NHS-based information._")
-st.markdown("**⚠️ Disclaimer:** This is not medical advice. If in doubt, contact your GP or call NHS 111. Note: This app is in beta, you may experience bugs, please feel free to provide feedback to harry@askbaby.uk")
+st.markdown("**⚠️ Disclaimer:** This is not medical advice. If in doubt, contact your GP or call NHS 111.")
 
 # --- Sidebar Profile ---
 st.sidebar.title("👶 My Baby Profile")
